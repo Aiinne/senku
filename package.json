@@ -1,0 +1,36 @@
+{
+  "name": "Rest-Api",
+  "version": "1.0.0",
+  "description": "simple rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Tanaka9531",
+  "license": "ISC",
+  "dependencies": {
+    "akaneko": "^5.2.0",
+    "axios": "^0.21.1",
+    "camaro": "^6.1.0",
+    "canvacord": "^5.2.1",
+    "discord-canvas": "^1.4.1",
+    "express": "^4.17.1",
+    "g-i-s": "^2.1.6",
+    "html-to-text": "^8.0.0",
+    "lolis.life": "^4.0.0",
+    "morgan": "^1.10.0",
+    "needle": "^2.8.0",
+    "node-scrapy": "^0.5.0",
+    "puppeteer": "^10.1.0",
+    "qs": "^6.10.1",
+    "scrape-yt": "^1.4.8",
+    "soundcloud-scraper": "^5.0.0",
+    "stackblur-canvas": "^2.5.0",
+    "tinyurl-api": "^1.0.1",
+    "trev": "^2.0.8",
+    "ytdl-core": "^4.8.3",
+    "zrapi": "0.0.6"
+  }
+}
